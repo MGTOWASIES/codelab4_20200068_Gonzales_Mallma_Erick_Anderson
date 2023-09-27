@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Courses</string>
+    <string name="Ingenieria">Ingenieria</string>
+    <string name="Tesis">Tesis</string>
+    <string name="Inteligencia_de_negocios">Inteligencia de negocios</string>
+    <string name="Algoritmica">Algoritmica</string>
+    <string name="Datamining">Datamining</string>
+    <string name="Calculo_I">Calculo I</string>
+    <string name="Biologia">Biologia</string>
+    <string name="Python">Python</string>
+    <string name="Arte">Arte</string>
+    <string name="Musicas">Musicas</string>
+    <string name="Redes">Redes</string>
+    <string name="Telecomunicaciones">Telecomunicaciones</string>
+    <string name="IA">IA</string>
+    <string name="Cine">Cine</string>
+</resources>
